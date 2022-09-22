@@ -1,3 +1,4 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # caesar-cipher
 This is a simple Python application which you can use to encrypt or decrypt a piece of text. 
 ##### What is Caesar cipher?
@@ -12,3 +13,12 @@ From Wikipedia:
 * Enter however long text to encrypt / decrypt
 * Choose a key to encrypt / decrypt with
 * Share with a friend so nobody can eavesdrop on your conversations
+## Built With
+
+* [python](https://www.python.org/) - The software used
+
+## Author
+[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/mohamed-khaled-205a21211/)
+
+* [*Mohamed Khaled**](https://github.com/mohamedKhaledBio) 
+
